@@ -52,9 +52,10 @@
 		<meta property="file-as" refines="#author">Mitra, S. M.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Siddha Mohana Mitra</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n81082014</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">trc</meta>
-		<dc:contributor id="editor">Nancy Bell</dc:creator>
+		<dc:contributor id="editor">Nancy Bell</dc:contributor>
 		<meta property="file-as" refines="#editor">Bell, Nancy</meta>
 		<meta property="se:name.person.full-name" refines="#editor">Nancy Regina Emily Meugens Bell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Nancy_Bell_(author)</meta>
