@@ -62,10 +62,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#editor">https://id.loc.gov/authorities/names/n90629657</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Edwin Lord Weeks</dc:contributor>
+		<meta property="file-as" refines="#artist">Weeks, Edwin Lord</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Lord_Weeks</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n86835275</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber">Online Distributed Proofreading Team, The</meta>
