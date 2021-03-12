@@ -35,16 +35,18 @@
 		<meta property="term" refines="#subject-1">sh2008112451</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Short stories and fables from the Sanskrit tradition.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;Hindu Tales from the Sanskrit&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/s-m-mitra"&gt;&lt;abbr&gt;S. M.&lt;/abbr&gt; Mitra&lt;/a&gt; has collected and transcribed in English various fables and short stories from across the Sanskrit tradition. The stories’ characters range from kings to mice and they find themselves in all manner of situations, from the mundane to the magical. Regardless of the setting, there is a common thread of moral choices, whether personal or for family and friends, that runs through the collection.&lt;/p&gt;
+			&lt;p&gt;Siddha Mohana Mitra was an Indian author and political commentator, who was most famous at the time for his numerous books and articles for the British market on the colonial rule of India. This collection, edited by the author and translator Nancy Bell, was published in 1919, and was designed to be both appealing as a set of fairy tales and useful as a teaching tool for children’s moral perception of the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11310</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.7115</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Questions for the reader removed from the end of every chapter.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/s-m-mitra_hindu-tales-from-the-sanskrit</meta>
