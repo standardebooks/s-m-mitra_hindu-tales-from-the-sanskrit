@@ -37,6 +37,7 @@
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Short stories and fables from the Sanskrit tradition.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Hindu Tales from the Sanskrit&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/s-m-mitra"&gt;&lt;abbr&gt;S. M.&lt;/abbr&gt; Mitra&lt;/a&gt; has collected and transcribed in English various fables and short stories from across the Sanskrit tradition. The stories’ characters range from kings to mice and they find themselves in all manner of situations, from the mundane to the magical. Regardless of the setting, there is a common thread of moral choices, whether personal or for family and friends, that runs through the collection.&lt;/p&gt;
