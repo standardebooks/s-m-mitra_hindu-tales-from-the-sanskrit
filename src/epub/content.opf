@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/11310</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.7115</dc:source>
 		<meta property="se:production-notes">Questions for the reader removed from the end of every chapter.</meta>
-		<meta property="se:word-count">39773</meta>
+		<meta property="se:word-count">39652</meta>
 		<meta property="se:reading-ease.flesch">71.28</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/s-m-mitra_hindu-tales-from-the-sanskrit</meta>
 		<dc:creator id="author">S. M. Mitra</dc:creator>
