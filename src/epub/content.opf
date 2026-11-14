@@ -62,6 +62,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">edc</meta>
 		<dc:contributor id="editor">Nancy Bell</dc:contributor>
 		<meta property="file-as" refines="#editor">Bell, Nancy</meta>
+		<meta property="schema:alternateName" refines="#editor">Nancy D’Anvers</meta>
 		<meta property="schema:alternateName" refines="#editor">Nancy Regina Emily Meugens Bell</meta>
 		<link href="https://en.wikipedia.org/wiki/Nancy_Bell_(author)" refines="#editor" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n90629657.html" refines="#editor" rel="schema:sameAs"/>
